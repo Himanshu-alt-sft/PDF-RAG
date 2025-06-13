@@ -1,0 +1,8 @@
+[
+    {
+        "page": 3,
+        "sentence_chunk": "Trademarks AMD, the AMD logo, and combinations thereof are trademarks of Advanced Micro Devices, Inc. Android and Google Web Search are trademarks of Google Inc. Apple and Apple Macintosh are registered trademarkes of Apple Inc. ASM, DESPOOL, DDT, LINK-80, MAC, MP/M, PL/1-80 and SID are trademarks of Digital Research. BlackBerry\u00ae, RIM\u00ae, Research In Motion\u00ae and related trademarks, names and logos are the property of Research In Motion Limited and are registered and/or used in the U. S. and coun- tries around the world. Blu-ray Disc\u2122is a trademark owned by Blu-ray Disc Association. CD Compact Disk is a trademark of Phillips. CDC 6600 is a trademark of Control Data Corporation. CP/M and CP/NET are registered trademarks of Digital Research. DEC and PDP are registered trademarks of Digital Equipment Corporation. eCosCentric is the owner of the eCos Trademark and eCos Logo, in the US and other countries. The marks were acquired from the Free Software Foundation on 26th February 2007. The Trademark and Logo were previously owned by Red Hat.",
+        "total char": 1049,
+        "total words": 168,
+        "tokens": 262,
+        "embedding": 
