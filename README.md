@@ -63,3 +63,9 @@ Output will show:
 > **Query**: *What is an operating system?*  
 > **Answer**: *An operating system is software that manages hardware and software resources...*
 ---
+Credits
+
+This project was inspired by the amazing content of [Daniel Bourke](https://www.youtube.com/@Mrdbourke), especially his work on:
+- Machine learning & NLP
+- Practical LLM usage
+- Making AI stuff not boring
